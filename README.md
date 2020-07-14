@@ -1,1 +1,1 @@
-# banking-management
+# snake project
